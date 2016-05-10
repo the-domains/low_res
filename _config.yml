@@ -3,12 +3,12 @@ color:
   brandColors:
     - '#3D3D3D'
     - '#3D3D3D'
-  brandStrength: 0.679054
-  lightness: 0.829955
+  brandStrength: 0.518018
+  lightness: 0.733108
   rhythmicContrast: 0.612612
-  saturation: 0.327702
+  saturation: 0.443693
 cta: {}
-layout_spectrum: 0.174549
+layout_spectrum: 0.353603
 name: Low_res
 opengraph: {}
 purpose: []
