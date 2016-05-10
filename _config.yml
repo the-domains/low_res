@@ -1,28 +1,15 @@
-name: Low_res
-favicon: null
-layout_spectrum: 0.7723429459147155
-typography_spectrum: 0.5068370522931218
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.46443286119028926
-  lightness: 0.8441234629135579
-  saturation: 0.5430470425635576
-  rhythmicContrast: 0.33437379682436585
+    - '#3D3D3D'
+    - '#3D3D3D'
+  brandStrength: 0.679054
+  lightness: 0.829955
+  rhythmicContrast: 0.612612
+  saturation: 0.327702
+cta: {}
+layout_spectrum: 0.174549
+name: Low_res
+opengraph: {}
 purpose: []
+typography_spectrum: 0.456081
