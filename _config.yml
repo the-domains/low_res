@@ -1,15 +1,15 @@
-analytics: {}
+layout_spectrum: 0.5004125288687646
+typography_spectrum: 0.6230512864422053
 color:
   brandColors:
     - '#3D3D3D'
     - '#3D3D3D'
-  brandStrength: 0.263513
-  lightness: 0.384009
-  rhythmicContrast: 0.683558
-  saturation: 0.638513
+  brandStrength: 0.67282201978378
+  lightness: 0.13484281743876636
+  rhythmicContrast: 0.8373567194212228
+  saturation: 0.3849167835433036
+analytics: {}
 cta: {}
-layout_spectrum: 0.612612
 name: Low_res
 opengraph: {}
 purpose: []
-typography_spectrum: 0.104729
