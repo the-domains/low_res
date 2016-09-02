@@ -12,6 +12,10 @@ layout_spectrum: 0.5004125288687646
 analytics: {}
 name: Low_res
 cta: {}
+navigation:
+  - name: Lorenz Gillisjans | Portfolio
+    id: 1a2f4e63-6308-47d4-b19c-e631928dd8d2
+    type: content
 title: This is my AI website
 description: Testing out the Grid
 purpose: []
