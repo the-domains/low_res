@@ -1,4 +1,3 @@
-layout_spectrum: 0.5004125288687646
 typography_spectrum: 0.6230512864422053
 color:
   brandColors:
@@ -8,8 +7,10 @@ color:
   lightness: 0.13484281743876636
   rhythmicContrast: 0.8373567194212228
   saturation: 0.3849167835433036
-analytics: {}
-cta: {}
-name: Low_res
 opengraph: {}
+layout_spectrum: 0.5004125288687646
+analytics: {}
+name: Low_res
+cta: {}
+title: This is my AI website
 purpose: []
