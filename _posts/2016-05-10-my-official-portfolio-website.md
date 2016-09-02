@@ -1,15 +1,21 @@
 ---
-hasPage: false
+hasPage: true
 inFeed: true
 inNav: false
 description: My official Portfolio website
-dateModified: '2016-05-10T20:26:04.474Z'
-datePublished: '2016-05-10T20:28:20.457Z'
-title: 'Lorenz Gillisjans | Portfolio'
+dateModified: '2016-08-31T06:58:19.138Z'
+datePublished: '2016-08-31T06:58:19.621Z'
+title: Lorenz Gillisjans | Portfolio
 author: []
 sourcePath: _posts/2016-05-10-my-official-portfolio-website.md
-isBasedOnUrl: 'http://lorenzgillisjans.com/'
+publisher:
+  url: 'http://lorenzgillisjans.com'
+  name: Lorenz Gillisjans
+  favicon: 'http://lorenzgillisjans.com/favicon.ico'
+  domain: lorenzgillisjans.com
+via: {}
 starred: false
+url: lorenz-gillisjans-or-portfolio/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
